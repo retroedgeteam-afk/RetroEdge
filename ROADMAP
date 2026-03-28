@@ -1,0 +1,10 @@
+RetroEdge/
+│
+├─ README.md          # Présentation du projet
+├─ LICENSE            # MIT ou autre licence
+├─ CONTRIBUTING.md    # Guide pour les contributeurs
+├─ ROADMAP.md         # Objectifs et roadmap du projet
+├─ assets/            # Images, mockups, logos, UI
+├─ src/               # Code source NovaRetroOS / outils
+├─ docs/              # Documentation détaillée, guides
+└─ issues/            # Optionnel : template pour issues
