@@ -1,1 +1,14 @@
-
+NovaRetroOS/
+├─ main.py
+├─ system/
+│   ├─ __init__.py
+│   ├─ console.py
+│   ├─ display.py
+│   └─ input.py
+├─ ui/
+│   ├─ __init__.py
+│   ├─ menu.py
+│   └─ widgets.py
+└─ utils/
+    ├─ __init__.py
+    └─ logger.py
